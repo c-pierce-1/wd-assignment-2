@@ -118,3 +118,19 @@ footer {
     text-align: center;
     margin: auto;
 }
+
+.fav-btn {
+    background-color: green;
+    color: white;
+    border: none;
+    font-family: 'Courier New', 'Courier New', Courier, monospace;
+}
+
+.favorited-dish {
+    border: 3px solid red !important;
+    background-color: whitesmoke;
+}
+
+.remove-btn-state {
+    background-color: orangered;
+}
